@@ -14,7 +14,7 @@ This project uses the [BotAuth](https://github.com/MicrosoftDX/botauth) package(
 1. You will start by cloning the Quickstart template into a new project folder:
 
 ```
-git clone https://github.com/richdizz/microsoft-graph-bot-quickstart-luis.git MyProjectName
+git clone https://github.com/richdizz/microsoft-graph-bot-quickstart-luis-node.git MyProjectName
 ```
 
 2. Next, discard the git references:
